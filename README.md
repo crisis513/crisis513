@@ -4,7 +4,7 @@
 
 ## Han-gi Son's Github
 
-군 복무 중인 안타까운 사람입니다 ...
+정비중
 
 <br>
 
@@ -12,7 +12,7 @@
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://crisis513.github.io/)](https://crisis513.github.io/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Hangi.Son)](https://www.facebook.com/Hangi.Son)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hangi_s6i/)](https://www.instagram.com/hangi_s6i/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hangi_sonny/)](https://www.instagram.com/hangi_sonny/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crisis51526@gmail.com)](mailto:crisis51526@gmail.com)
 </div>
 
