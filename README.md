@@ -4,8 +4,6 @@
 
 ## Han-gi Son's Github
 
-정비중
-
 <br>
 
 <div align=center>
